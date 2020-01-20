@@ -1,0 +1,61 @@
+.link{
+    color: black;
+}
+.Game {
+    background-color: #f4d25d;
+    text-align: center;
+  }
+.Num{
+    font-size: 5rem;
+    color:#16466e;
+    font-family: "Lobster", cursive;
+    text-shadow: 5px 0 #072f4f;
+}
+.Minor{
+    font-size: 2rem;
+    color:#16466e;
+    font-family: "Lobster", cursive;
+    text-shadow: 2px 0 #072f4f;
+}
+.Manual{
+    font-size: 1rem;
+    color:#16466e;
+    font-family: "Bangers", cursive;
+    text-shadow: 1px 0 #072f4f;
+}
+.GuessField{
+    font-size: 1rem;
+    color:#16466e;
+    font-family: "Lobster", cursive;
+    text-shadow: 1px 0 #072f4f; 
+}
+.Result{
+    font-size: 2rem;
+    color:#951519;
+    font-family: "Bangers", cursive;
+    text-shadow: 2px 0 #76202a; 
+}
+.Mainhis{
+    font-size: 2rem;
+    color:#16466e;
+    font-family: "Lobster", cursive;
+    text-shadow: 1px 0 #072f4f; 
+}
+.History{
+    font-size: 1rem;
+    color:#16466e;
+    font-family: "Bangers", cursive;
+    text-shadow: 1px 0 #072f4f; 
+}
+.GuessSumit{
+    font-size: 1rem;
+    color:#16466e;
+    font-family: "Bangers", cursive;
+    text-shadow: 1px 0 #072f4f;
+}
+.Restart{
+    font-size: 1rem;
+    color:#16466e;
+    font-family: "Bangers", cursive;
+    text-shadow: 1px 0 #072f4f;
+  }
